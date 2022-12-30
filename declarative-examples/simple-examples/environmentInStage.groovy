@@ -23,6 +23,3 @@ pipeline {
     }
   }
 }
-
-
-<demo on github webhook>
